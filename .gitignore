@@ -1,0 +1,8 @@
+# Ne jamais publier de secrets ni de machines virtuelles
+*.vdi
+*.vmdk
+*.ova
+*.iso
+*.key
+*.pem
+.env
